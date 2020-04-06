@@ -1,3 +1,14 @@
+<?php  
+  
+session_start(); 
+   
+if(isset($_SESSION['views'])) 
+    $_SESSION['views'] = $_SESSION['views']+1; 
+else
+    $_SESSION['views']=1; 
+  
+?> 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -490,6 +501,9 @@
             </li>
             <li class="list-inline-item">
               <a href="#">Terms of Use</a>
+            </li>
+            <li>
+              <a href="#"><?php echo"views = ".$_SESSION['views']; ?></a>
             </li>
           </ul>
         </div>
