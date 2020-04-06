@@ -1,0 +1,101 @@
+[33mcommit 8c6f56f84db2e1c5f9bd3c94e8b2adea5f72d529[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 21:05:58 2020 +0100
+
+    changing the index.html by the index.php
+
+[33mcommit 6be8e5c60325f4a4f2d0ecf004c4b42d2373de6f[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 18:22:03 2020 +0100
+
+    setting all the links to the musics activities that tsopgni duhamel send in the portfolio section because the youtube link for the first activity really worked
+
+[33mcommit d32e272b20875b22132ea0c9173d1bcb22e7f567[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 17:42:07 2020 +0100
+
+    updating the modals of the portfolio section
+
+[33mcommit 1f5f2389bb82bd5ad785a3cb5d1f128b0f0638b7[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 17:18:24 2020 +0100
+
+    modification of the images in the portfolio section
+
+[33mcommit e11d99d83aee44447329ca913bab22491c44d71d[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 12:13:14 2020 +0100
+
+    setting the action to contact_me.php
+
+[33mcommit 2a270919137634f33b585fac2f0b5fdc324f5ca0[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 02:09:48 2020 +0100
+
+    adding the header location to send back the user to the index.html page
+
+[33mcommit 61664f2e872759a6caa0651f52d9112d7a519028[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 02:04:57 2020 +0100
+
+    adding the method and the action of the form
+
+[33mcommit c9f9bdfe3ed168c2fdb4a514670ec44294743c05[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 01:46:19 2020 +0100
+
+    configuring the email adddress to receive information from the users through the form
+
+[33mcommit 5aabca6da68025e129ee7242b0b71c17bd01afbb[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Mon Apr 6 01:31:01 2020 +0100
+
+    updating the about section of the website
+
+[33mcommit 02a3dcfcd2e06152e78e7fc0c8132c62418ef77b[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 23:36:20 2020 +0100
+
+    adding ngamsologie logo
+
+[33mcommit 16bc992d3a7c0fef179354ae57e74d93be23ae41[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 22:50:24 2020 +0100
+
+    adding the logos of ensp uy1 and pvalor
+
+[33mcommit 71254376a3923f91475fa44014c51ef077c5703e[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 22:29:48 2020 +0100
+
+    setting the right link to the social media at the footer
+
+[33mcommit 84eadf0e8e01ed21e65bca955d666fdf0323d344[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 22:25:57 2020 +0100
+
+    giving the periods of the day that we are available
+
+[33mcommit 018096100a736c9a22f70e36ba2485299f736f3d[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 22:21:21 2020 +0100
+
+    condition to join our team
+
+[33mcommit 4c2711067b01757d56ca0d7d741103e01abc7b63[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 22:10:13 2020 +0100
+
+    adding the links to the social media icons
+
+[33mcommit e2ddfa2d66fc119f75266d5a17826aa02c38b0f4[m
+Author: tsopgniduhamel <tsopgniduhamel@gmail.com>
+Date:   Sun Apr 5 21:24:04 2020 +0100
+
+    adding all the files of the website
+
+[33mcommit 88bb549c2914e50007a63f5915c85875ef24669d[m
+Author: tsopgniduhamel <56734083+tsopgniduhamel@users.noreply.github.com>
+Date:   Sun Apr 5 21:22:51 2020 +0100
+
+    Initial commit
